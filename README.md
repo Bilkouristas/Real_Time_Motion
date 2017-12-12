@@ -8,3 +8,8 @@ Omniwheel 3WD
 Σ'αυτό το repository βάζω μονο τα 2 header files που χρειάζονται include στους κωδικες
 <RF24.h> 
 <nRF24L01.h>
+->Done
+
+#12/12 modified transmitter-receiver .ino files
+
+Uploaded ->
