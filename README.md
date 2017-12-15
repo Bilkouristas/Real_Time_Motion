@@ -21,6 +21,4 @@ Uploaded -> Done
 
 receiver_example.ino  >>> Updated 
 
-
-
 transmitter.ino       >>> Updated
