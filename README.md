@@ -16,3 +16,8 @@ Omniwheel 3WD
    2)transmitter.ino
                           
 Uploaded -> Done
+
+#15/12 Meeting friday
+
+receiver_example.ino  >>> Updated
+transmitter.ino       >>> Updated
