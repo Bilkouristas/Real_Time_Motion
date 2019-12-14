@@ -1,11 +1,18 @@
 # Real_Time_Motion
 Omniwheel 3WD
 
+Extracirricular Project in creating a wireless driveable small car
+
+Created for practice on Arduino, bluetooth adn wireless comms and team working from scratch
+
+
+
+
 
 #nrf24 Library
 
-Ολόκληρο το .zip αρχείο το ανέβασα σε καινούργιο repository επειδή ήταν πολύ μεγάλο 
-Σ'αυτό το repository βάζω μονο τα 2 header files που χρειάζονται include στους κωδικες
+Uploaded the .zip file in a new repository because it was too large.
+In that repo , i put only the 2 header files needed for #include on the code:
 <RF24.h> 
 <nRF24L01.h>
 ->Done
